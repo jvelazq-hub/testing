@@ -8,6 +8,7 @@ public class Products {
 	private String id;
 	private String name;
 	private int catId;
+	private String gitRepository = "gitName";
 	
 	/*
 	 * Constructor for Class
