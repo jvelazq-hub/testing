@@ -8,9 +8,8 @@ public class Products {
 	private String id;
 	private String name;
 	private int catId;
-	public String getGitRepository() {
-		return gitRepository;
-	}
+	
+	
 
 
 
